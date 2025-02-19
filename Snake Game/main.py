@@ -4,7 +4,7 @@ import random
 
 # Set up the screen
 wn = turtle.Screen()
-wn.title("Snake Game by DeepSeek")
+wn.title("Snake Game by Tejas")
 wn.bgcolor("black")
 wn.setup(width=600, height=600)
 wn.tracer(0)  # Turns off the screen updates
